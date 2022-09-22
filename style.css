@@ -1,0 +1,27 @@
+.form{
+    height: 600px;
+    background-image: url(./background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.style-form{
+    padding: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+
+input{
+    font-weight: bold;
+}
+
+fieldset{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    padding: 20px; 
+    border: 1px solid blue;
+    
+}
